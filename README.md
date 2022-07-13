@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Shyam Jos</h2>
 <h3 >A passionate SRE/DevOps Engineer from Kochi,India</h3>
 
-- 📝 I regularly write articles on [Shyamjos.com](Shyamjos.com)
+- 📝 I regularly write articles on [Shyamjos.com](https:/shyamjos.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shyamjos/](https://www.linkedin.com/in/shyamjos/)
 </p>
