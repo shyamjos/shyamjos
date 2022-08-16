@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Shyam Jos</h2>
-<h3 >A passionate SRE/DevOps Engineer from Kochi,India</h3>
+<h3 >A passionate SRE/DevOps Practitioner from Kochi,India</h3>
 
 - 📝 I regularly write articles on [Shyamjos.com](https://shyamjos.com)
 
